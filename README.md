@@ -36,7 +36,7 @@ Soy ingeniero en sistemas computacionales egresado del 2025, con sólida formaci
 - WhatsApp: +52 917-137-8370
 - Email: lopez123montiel@gmail.com
 - Ubicación: Las Choapas, Veracruz, México.
-- Estoy Disponible para inic
+- Estoy Disponible Para iniciar a laborar
 
 ### 📈 Estadísticas de GitHub
 
