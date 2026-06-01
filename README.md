@@ -25,6 +25,7 @@ Soy ingeniero en sistemas computacionales egresado del 2025, con sólida formaci
 - [CIENCIA-DE-DATOS](https://github.com/mateo469/CIENCIA-DE-DATOS)
 - [Análisis exploratorio usando Polars sobre jugadores](https://github.com/mateo469/Portafolio-de-analisis-exploratorio-usando-la-libreria-de-polar-acerca-de-los-Jugadores)
 - [Proyecto de análisis de datos de un restaurante internacional](https://github.com/mateo469/Proyecto-de-Analisis-de-datos-de-un-Restaurante-Internacional-)
+- [FerreteriaDB](https://github.com/mateo469/Ferreter-aDB)
 
 
 ### 📁Cursos de Programacion.
