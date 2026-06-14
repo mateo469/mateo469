@@ -29,7 +29,7 @@ Soy ingeniero en sistemas computacionales egresado del 2025, con sólida formaci
 
 
 ### 📁Cursos de Programacion.
--[Curso de Python desde cero a avanzado](https://github.com/mateo469/curso_python_2025_2026.git)
+-[Curso de Python desde cero a avanzado](https://github.com/mateo469/Curso_Python_Cero)
 -[Curso de Java para principiante](https://github.com/mateo469/java)
 
 ### 📫 Contacto
